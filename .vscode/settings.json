@@ -1,0 +1,6 @@
+{
+    "yaml.schemas": {
+        "https://raw.githubusercontent.com/ansible/ansible-lint/main/src/ansiblelint/schemas/ansible.json#/$defs/playbook": "vscode-vfs://github/geonakas/wslhelper/createDrupalBackup.yaml"
+    },
+    "ansible.python.interpreterPath": "c:\\Users\\geona\\AppData\\Local\\Microsoft\\WindowsApps\\python3.11.exe"
+}
